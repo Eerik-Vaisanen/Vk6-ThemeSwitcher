@@ -1,2 +1,2 @@
-# Vk6-ThemeSwitcher
-6. Viikon palautustehtävä - Teeman vaihtaja
+# Vk7-ThemeSwitcher
+7. Viikon palautustehtävä - Teeman vaihtaja
